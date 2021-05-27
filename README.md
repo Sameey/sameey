@@ -14,8 +14,3 @@ I'm samey a backend developer. I Spend most of time coding outstanding projects 
 - 😄 Pronouns: samey
 - ⚡ Fun fact: I am also a discord bot developer
 
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-
